@@ -68,59 +68,38 @@ function App() {
           AI Money Challenge
         </h1>
         <h3 className="p-4 mt-6 bg-zinc-900 rounded text-sm text-zinc-400 max-w-md">
-          ⚠️ This is literally all you need to start making money with AI models within the next 5 days.
+          ⚠️ No followers? No problem. This 5-day AI challenge shows you exactly how to build, grow, and monetize from scratch.
+
           <br />
           <span className="block mt-1">Step by step.</span>
         </h3>
 
         {/* Social Section */}
         <div className="mt-10 w-full max-w-md">
-          <h3 className="text-base text-white mb-3">
-            For more value & industry tricks, follow me on socials:
+          <h3 className="text-base text-white mb-6">
+            Start Making 💸 $10,000 with Ai girl on Instagram
           </h3>
 
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://www.instagram.com/aimodelmax/reels/?hl=en"
-            className="bg-zinc-900 p-3 rounded flex justify-between items-center hover:bg-zinc-700 transition mb-5"
-          >
-            <div className="flex items-center gap-3">
-              <svg
-                className="text-pink-500 h-5 w-5"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
-                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
-              </svg>
-              <span>Instagram</span>
-            </div>
-            <span>➚</span>
-          </a>
 
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://rg4142451.systeme.io/"
-            className="bg-zinc-900 p-3 px-10 rounded  hover:bg-zinc-700 transition "
+            href="https://7367503790691.gumroad.com/l/rljee"
+            className="p-3 mb-4 px-10 rounded transition bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 hover:from-pink-600 hover:to-indigo-600 shadow-lg hover:shadow-pink-500/30"
           >
-            Start Making 💸 $10,000 with Ai girl on Instagram
+            Start Making Money with AI Today 🚀
           </a>
 
-          <h5 className="text-sm text-zinc-500 mt-4">[private community coming soon]</h5>
+
+          <h5 className="text-sm text-zinc-500 mt-4"> 🎉 1,200+ users started this challenge in the last 30 days!
+          </h5>
         </div>
+
 
         {/* Step-By-Step Plan */}
         <section className="w-full max-w-5xl mt-16 pb-16 px-2">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[#F2F2F3]">
-            Step-By-Step Plan
+            Your 5-Day AI Income Blueprint 💡
           </h2>
 
           {/* Desktop Timeline */}
@@ -206,7 +185,7 @@ function App() {
       {/* Cards Section */}
       {/* Cards Section */}
       <h2 className="text-2xl md:text-3xl font-bold text-center mt-20 text-white underline">
-        Making Money Like These AI Models
+        These AI Models Are Already Cashing In 💰
       </h2>
 
       <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mt-10 px-4">
@@ -264,6 +243,7 @@ function App() {
           </div>
         ))}
       </div>
+
 
     </div>
   );
